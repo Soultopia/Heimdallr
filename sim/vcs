@@ -1,0 +1,2 @@
+docker run --hostname lizhen --mac-address 02:42:ac:11:00:02 -it -p 42596:42596 -p 27000:27000 -p 5902:5902 -p 1234:22 -v /common:/common ic
+docker attach $(docker ps -l | grep ic | grep "^[0-9a-z]*" -o)
