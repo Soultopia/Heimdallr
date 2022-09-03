@@ -30,4 +30,26 @@ implementation aligorithms, etc.
 │               └── hsim3.mk
 └── README.md
 
+.
+|-- DOC
+|-- PRJ
+|   |-- alg
+|   |-- rtl
+|   |   |-- filelist
+|   |   |-- module
+|   |   `-- top
+|   `-- verif
+|       |-- envir
+|       |-- profile
+|       |   |-- alia.sh
+|       |   |-- path.sh
+|       |   |-- prj.sh
+|       |   `-- tool.sh
+|       `-- script
+|           `-- HSIM
+|               |-- hsim2.mk
+|               `-- hsim3.mk
+|-- LICENSE
+`-- README.md
+
 ```
