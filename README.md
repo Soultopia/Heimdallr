@@ -13,7 +13,7 @@
 ## Introduction
 
 Heimdallr is a universal IC front-end project structure, including aligorithms, rtl implementations,
-verification environments, related script tools, etc.
+verification environments, lint, cdc, spyglass and related script tools, etc.
 
 ## Hierarchy
 
@@ -46,7 +46,7 @@ Heimdallr's hierarchy as follows:
 ```
 
 
-##Tools
+## Tools
 
 1. HSIM
 
